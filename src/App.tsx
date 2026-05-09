@@ -137,7 +137,7 @@ export default function App() {
 
             <div className="liquid-glass rounded-3xl p-4 flex items-center justify-between hover:bg-white/5 transition-colors cursor-pointer group">
               <div className="flex items-center gap-4">
-                <img src="https://images.unsplash.com/photo-1541814674665-684611599308?auto=format&fit=crop&q=80&w=200&h=150" alt="Plant Sculpting" className="w-24 h-16 rounded-2xl object-cover border border-white/10" />
+                <img src="https://images.unsplash.com/photo-1528825871115-3581a5387919?auto=format&fit=crop&q=80&w=200&h=150" alt="Plant Sculpting" className="w-24 h-16 rounded-2xl object-cover border border-white/10" />
                 <div className="flex flex-col gap-1">
                   <h3 className="font-medium text-sm text-white group-hover:text-white/90 transition-colors">Advanced Plant Sculpting</h3>
                   <p className="text-xs text-white/60">Learn to manipulate digital flora</p>
